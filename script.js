@@ -53,7 +53,6 @@ function continueGame() {
     
     currentAlphabetElement.innerText = alphabet;
     setBackgroundColorById(alphabet);
-    dynamicChangeKey(alphabet);
 }
 
 // Function to start the game
